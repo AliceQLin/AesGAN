@@ -1,4 +1,4 @@
-# AesGAN —— Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting
+# AesGAN
 
 The tensorflow implement of [Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Assessing_Eye_Aesthetics_for_Automatic_Multi-Reference_Eye_In-Painting_CVPR_2020_paper.pdf)
 
