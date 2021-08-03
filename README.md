@@ -15,7 +15,7 @@ Eye in-painting results. Columns represent: (a) Image to in-paint, (b) The comme
 
 ## Eye Aesthetic Assessment
 **Building Aesthetic Dataset**：Based on the CAS-PEAL Dataset, we annotate a new eye dataset with 1,040 eye images. 22 volunteers are invited to make the eye aesthetic assessment. According to the average level of manual tagging, the dataset is divided into two grades: high quality and low quality.
-<div align=center><img src="./Fig/eyescoring.png" width="70%" height="60%" ></div>
+<div align=center><img src="./Fig/eyescoring.png" width="70%" height="50%" ></div>
 
 **Aesthetic Assessment Network**：We first introduce the reconstruction branch into the image quality assessment task to maintain the uniqueness of eye aesthetic. Only the eye aesthetic feature extraction module and the eye scoring module are needed during testing.
 <div align=center><img src="./Fig/eyenetwork.png" width="60%" height="60%" ></div>
